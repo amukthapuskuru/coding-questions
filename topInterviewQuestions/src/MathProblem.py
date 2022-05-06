@@ -9,3 +9,4 @@ class Mathproblem:
 
 res=Mathproblem()
 print(res.mathproblem('(4*6)/3'))
+#ztestig
